@@ -65,6 +65,20 @@
       "description": "Create and document a REST API using FastAPI with CRUD operations and JSON validation.",
       "path": "assignments/fastapi-rest-apis",
       "dueDate": "2026-07-01"
+    },
+    {
+      "id": "testing-debugging",
+      "title": "Testing and Debugging in Python",
+      "description": "Write tests and fix a Python program to improve reliability and correctness.",
+      "path": "assignments/testing-debugging",
+      "dueDate": "2026-07-15",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
