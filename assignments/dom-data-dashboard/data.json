@@ -1,0 +1,8 @@
+[
+  { "title": "Array Practice", "category": "coding", "score": 88, "minutes": 35 },
+  { "title": "Algebra Warmup", "category": "math", "score": 92, "minutes": 40 },
+  { "title": "Reading Reflection", "category": "reading", "score": 81, "minutes": 25 },
+  { "title": "Debugging Drill", "category": "coding", "score": 95, "minutes": 50 },
+  { "title": "Geometry Quiz", "category": "math", "score": 77, "minutes": 30 },
+  { "title": "Vocabulary Builder", "category": "reading", "score": 90, "minutes": 28 }
+]

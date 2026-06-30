@@ -79,6 +79,35 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "dom-data-dashboard",
+      "title": "DOM Data Dashboard",
+      "description": "Build an interactive dashboard with vanilla JavaScript using DOM rendering, filtering, and sorting.",
+      "path": "assignments/dom-data-dashboard",
+      "dueDate": "2026-07-07",
+      "attachments": [
+        {
+          "name": "Starter HTML",
+          "file": "starter-index.html",
+          "type": "html"
+        },
+        {
+          "name": "Starter CSS",
+          "file": "starter-styles.css",
+          "type": "css"
+        },
+        {
+          "name": "Starter JavaScript",
+          "file": "starter-script.js",
+          "type": "javascript"
+        },
+        {
+          "name": "Sample Dataset",
+          "file": "data.json",
+          "type": "json"
+        }
+      ]
     }
   ]
 }
